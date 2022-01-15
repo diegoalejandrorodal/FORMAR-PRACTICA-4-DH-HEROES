@@ -13,7 +13,7 @@ utilización en la página web. Nuestra misión será crear un servidor web con 
 colocar todos estos recursos donde correspondan, para navegar a través de ellos.
 Así que, sin más preámbulos, dejamos aquí las consignas para este desarrollo.
 
-1
+
 
 ## Objetivo
 Para la construcción de este pequeño sitio web se espera contar con la posibilidad de
@@ -29,7 +29,7 @@ acceso a las siguientes URLs:
 ¡Atención! Las anteriores deberán ser direcciones de acceso a la aplicación desde el
 navegador.
 
-2
+
 
 Consignas
 
@@ -52,7 +52,7 @@ DH-Heroes
 └ views
 app.js
 
-3
+
 
 ## Micro desafíos - Paso 3
 Ubicando recursos y sirviéndolos en nuestra aplicación.
@@ -78,7 +78,7 @@ index (es decir, todos los archivos .jpg), en la carpeta “img”.
 la ubicación de nuestros archivos estáticos, con la línea:
 app.use(express.static(‘public’));
 
-4
+
 
 ¡Felicitaciones! Levantamos un servidor web, vinculamos los recursos con las URLs y
 configuramos los archivos estáticos. Nada mal, ¿no? Con estos conocimientos ya estamos
